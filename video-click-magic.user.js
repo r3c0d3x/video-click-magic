@@ -3,7 +3,8 @@
 // @name Click to Play/Pause <video>
 // @description Makes it so <video> elements will play/pause when clicking the video, not just the controls. Requested by someone from IRC.
 // @include *
-// @version 1.2
+// @exclude youtube.com
+// @version 1.3
 // @updateURL https://r3c0d3x.github.io/video-click-magic/video-click-magic.user.js
 // ==/UserScript==
 
