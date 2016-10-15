@@ -4,6 +4,7 @@
 // @description Makes it so <video> elements will play/pause when clicking the video, not just the controls. Requested by someone from IRC.
 // @include *
 // @version 1
+// @updateURL http://r3c0d3x.github.io/video-click-magic/video-click-magic.user.js
 // ==/UserScript==
 
 window.addEventListener('load', function() {
