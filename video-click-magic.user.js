@@ -17,5 +17,5 @@ function playPause() {
 
 window.addEventListener('click', function(e) {
     if (e.toElement.tagName === 'VIDEO')
-    playPause.call(e.toElement);
+        playPause.call(e.toElement);
 });
